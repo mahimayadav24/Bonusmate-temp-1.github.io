@@ -748,7 +748,8 @@ ol, #uk {
 
 
 .backdrop {
-    background: linear-gradient(91.86deg, rgba(213, 106, 151, 0.095) 0.51%, rgba(255, 255, 255, 0.2) 100%);
+    /* background: linear-gradient(91.86deg, rgba(213, 106, 151, 0.095) 0.51%, rgba(255, 255, 255, 0.2) 100%); */
+    background: linear-gradient(91.86deg, rgba(255, 255, 255, 0.6) 0.51%, rgba(255, 255, 255, 0.2) 100%);
     backdrop-filter: blur(0px);
     padding: 10px;
 }
