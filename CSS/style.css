@@ -491,6 +491,16 @@ ol, #uk {
     height: 100%;
 }
 
+.img__bot {
+    content: '';
+    position: absolute;
+    background-size: contain;
+    right: 0;
+    bottom: 0;
+    width: 80%;
+    height: 60%;
+}
+
 /* .bg_rept .left__first__diff {
     content: '';
     position: absolute;
@@ -869,7 +879,8 @@ ol, #uk {
     margin: 0px 20px;
 
 }
-.repet a{
+
+.repet a {
     text-decoration: none;
 }
 
